@@ -17,3 +17,8 @@ Since the Nicla has wifi capabilities, I could just publish MQTT from the board.
 + No extra wires, less complex head design
 - I'd have to learn how to connect to wifi, and I know connecting to Tufts Wireless from a microcontroller is annoying.
 - Figure out how to setup MQTT on Nicla.
+
+### Enclosure Ideas
+https://thangs.com/search/arduino%20nicla%20vision?scope=all
+https://www.thingiverse.com/thing:5359047
+https://www.thingiverse.com/thing:5759796
