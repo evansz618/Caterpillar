@@ -37,10 +37,11 @@ while(True):
     if len(blobs) > 0:
         ledGreen.on()
         ledRed.off()
+        print(1)
     else:
     # Turn the red LED on if no blob was found
         ledGreen.off()
         ledRed.on()
+        print(0)
 
     pyb.delay(50) # Pauses the execution for 50ms
-    print(clock.fps()) # Prints the framerate to the serial console
